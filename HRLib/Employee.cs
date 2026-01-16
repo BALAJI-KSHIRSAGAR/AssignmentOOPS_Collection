@@ -3,6 +3,8 @@
     public abstract class Employee
     {
         #region Properties
+
+        // Static member to keep track of employee count and to check github status while learning git
         private static int count = 100;
         private string name;
 
