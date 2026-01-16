@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HRAPP/HRAPP.csproj" Id="53751cce-0802-4b66-9c2f-ada29c5d2f01" />
+  <Project Path="HRLib/HRLib.csproj" />
+</Solution>
